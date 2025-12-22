@@ -18,7 +18,7 @@
 
   <!-- 卡片2 -->
   <div style="text-align: center; padding: 15px; border: 1px solid #e1e4e8; border-radius: 8px; width: 200px;">
-    <img src="data/WhatsAppp_97349999.png" width="180" style="margin-bottom: 10px;">
+    <img src="data/WhatsApp_97349999.png" width="180" style="margin-bottom: 10px;">
     <p style="margin: 0; color: #24292e; font-weight: 600;">WhatsApp_97349999</p>
   </div>
 
