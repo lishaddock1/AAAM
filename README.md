@@ -5,7 +5,6 @@
   - **228 97349999**
   - **228 96473333**
 - WhatsApp
-
 <table style="width: 100%; border-collapse: separate; border-spacing: 15px; margin: 10px auto; text-align: center;">
   <tr>
     <td style="padding: 15px; border: 1px solid #e1e4e8; border-radius: 8px; width: 200px;">
